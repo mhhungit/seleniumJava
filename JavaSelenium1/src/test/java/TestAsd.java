@@ -7,5 +7,6 @@ public class TestAsd {
         asd asd = new asd();
         int c = asd.c();
         Assert.assertEquals(c,3,"C bi sai");
+
     }
 }
